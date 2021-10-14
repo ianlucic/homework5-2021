@@ -124,7 +124,7 @@ header{
 
 .about-image{
   max-height: 700px;
-  grid-column: 1 / span 1;
+  grid-column: 1 / -1;
   overflow: hidden;
   grid-row: 2 / span 1;
 }
@@ -136,7 +136,7 @@ header{
 
 .method-image{
   max-height: 700px;
-  grid-column: 1 / span 1;
+  grid-column: 1 / -1;
   overflow: hidden;
   grid-row: 3 / span 1;
 }
@@ -148,7 +148,7 @@ header{
 
 .clients-image{
   max-height: 700px;
-  grid-column: 1 / span 1;
+  grid-column: 1 / -1;
   overflow: hidden;
   grid-row: 4 / span 1;
 }
@@ -161,7 +161,7 @@ header{
 
 .contact-image{
   max-height: 700px;
-  grid-column: 1 / span 1;
+  grid-column: 1 / -1;
   overflow: hidden;
   grid-row: 5 / span 1;
 
